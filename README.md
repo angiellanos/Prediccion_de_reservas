@@ -13,3 +13,8 @@ La información obtenida en esta base de datos está dada por las variables:
 4. **Primas Ganadas (EarnedPremDIR_, EarnedPremCeded_, EarnedPremNet_):** Representan las primas ganadas en el año de incurrimiento, desglosadas en primas directas, cedidas y netas. 
 
 5. **Posted Reserves in Year 1997 (PostedReserve97_):** Reservas publicadas en el año 1997, incluyendo pérdidas netas no pagadas y gastos no pagados de ajuste de pérdidas. 
+
+
+Vídeo descriptivo:
+
+https://youtu.be/boXNjtfYGcI
